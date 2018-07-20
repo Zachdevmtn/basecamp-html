@@ -1,0 +1,111 @@
+a{
+ color:#FBFCFC;
+ font-size: 20px;
+ font-family: sans-serif;
+ display: block;
+ padding: 26px 16px;
+ text-decoration: none;
+ float:right;
+}
+ 
+.navBar{
+ background-color:rgb(104, 100, 100);
+ list-style-type: none;
+ overflow: hidden;
+ margin: 0;
+ padding-right: 40px;
+ height:75px;
+}
+#companyTitle{
+ float: left;
+ font-size: 42px;
+ padding: 16px 20px;
+ color:#FBFCFC;
+ }
+footer{
+ background-color:#17202A;
+}
+h1 {
+ padding: 120px 10 px;
+ height: 300px;
+ text-align: center;
+ color:yellow;
+ font-size: 72px;
+ font-family: sans-serif;
+ margin: 0;
+ line-height: 250px;
+}
+.theMore{
+ background-size: cover;
+ background-position: center;
+ background-color: black;
+}
+.bgColor{
+ background-size: cover;
+ background-position: center;
+ background-color:#353349;
+ height: 100px;
+}
+#largeBox{
+ margin: 0;
+ height: 300px;
+ background-color: white;
+ padding: 40px 60px 0 60px;
+}
+#box1{
+ height: 250px;
+ width: 25%;
+ background-color: #a9f2d2;
+ float: left;
+ border-radius: 25px;
+}
+#box2{
+ height: 250px;
+ width: 25%;
+ background-color: #a9f2d2;
+ float: left;
+ margin-left: 145px;
+ border-radius: 25px;
+}
+#box3{
+ height: 250px;
+ width: 25%;
+ background-color: #a9f2d2;
+ float: right;
+ border-radius: 25px;
+}
+#largeBox2{
+ margin: 0;
+ height: 300px;
+ background-color: white;
+ padding: 40px 60px 0 60px;
+}
+#tanbox1{
+ height: 250px;
+ width: 47.5%;
+ background-color:#e5b350;
+ float: left;
+}
+#tanbox2{
+ height: 250px;
+ width: 47.5%;
+ background-color:#e5b350;
+ float: right;   
+}
+#largeBox3{
+ margin: 0;
+ height: 250px;
+ background-color: white;
+ padding: 40px 100px 0 100px;
+}
+#textBox{
+ font-family: sans-serif;
+ width: 40%;
+ float: left;
+}
+#img1{
+ float: left;
+ width: 25%;
+ padding-left: 220px;
+ 
+}
